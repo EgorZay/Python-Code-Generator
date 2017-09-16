@@ -1,0 +1,59 @@
+2017-09-06 14:42:36,103 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:42:36,615 :: INFO :: GetData::'dataset.dt' database not found.
+2017-09-06 14:42:36,615 :: INFO :: GetData::'dataset.dt' database successfully built.
+2017-09-06 14:42:58,506 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:42:59,019 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:43:30,656 :: INFO :: Model::Previous state not found. Initializing LSTM-model structure. Stand by ...
+2017-09-06 14:43:31,920 :: INFO :: Model::LSTM-model successfully initialized.
+2017-09-06 14:43:31,959 :: INFO :: Train::Commencing model fitting. Stand by ...
+2017-09-06 14:49:47,280 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:49:47,793 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:50:20,855 :: INFO :: Model::Previous state not found. Initializing LSTM-model structure. Stand by ...
+2017-09-06 14:50:21,452 :: INFO :: Model::LSTM-model successfully initialized.
+2017-09-06 14:50:21,488 :: INFO :: Train::Commencing model fitting. Stand by ...
+2017-09-06 14:53:55,125 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:53:55,634 :: INFO :: GetData::'dataset.dt' database not found.
+2017-09-06 14:53:55,636 :: INFO :: GetData::'dataset.dt' database successfully built.
+2017-09-06 14:55:05,819 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:55:06,328 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:55:31,124 :: INFO :: Model::Previous state not found. Initializing LSTM-model structure. Stand by ...
+2017-09-06 14:55:31,710 :: INFO :: Model::LSTM-model successfully initialized.
+2017-09-06 14:55:31,747 :: INFO :: Train::Commencing model fitting. Stand by ...
+2017-09-06 14:58:01,991 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:58:02,501 :: INFO :: GetData::'content' variable successfully built.
+2017-09-06 14:58:27,403 :: INFO :: Model::Previous state not found. Initializing LSTM-model structure. Stand by ...
+2017-09-06 14:58:28,620 :: INFO :: Model::LSTM-model successfully initialized.
+2017-09-06 14:58:28,660 :: INFO :: Train::Commencing model fitting. Stand by ...
+2017-09-11 03:24:32,810 :: INFO :: Train::LSTM-model successfully fitted.
+2017-09-11 03:24:32,830 :: INFO :: Train::LSTM-model dumped at 'model'.
+2017-09-11 13:46:54,602 :: INFO :: GetData::'content' variable successfully built.
+2017-09-11 13:46:55,113 :: INFO :: GetData::'content' variable successfully built.
+2017-09-11 13:46:55,623 :: INFO :: GetData::'content' variable successfully built.
+2017-09-11 13:47:22,466 :: INFO :: Model::LSTM-model found.
+2017-09-11 13:48:21,146 :: INFO :: Test::LSTM-model successfully loaded.
+2017-09-11 13:48:21,146 :: INFO :: Test::LSTM-model successfully loaded.
+2017-09-11 13:50:18,192 :: INFO :: GetData::'content' variable successfully built.
+2017-09-11 13:50:18,703 :: INFO :: GetData::'content' variable successfully built.
+2017-09-11 13:50:19,213 :: INFO :: GetData::'content' variable successfully built.
+2017-09-11 13:50:49,424 :: INFO :: Model::LSTM-model found.
+2017-09-11 13:51:36,886 :: INFO :: Test::LSTM-model successfully loaded.
+2017-09-11 13:51:36,887 :: INFO :: Test::LSTM-model successfully loaded.
+2017-09-11 13:56:10,846 :: INFO :: GetData::'content' variable successfully built.
+2017-09-11 13:56:11,356 :: INFO :: GetData::'content' variable successfully built.
+2017-09-11 13:56:39,033 :: INFO :: Model::Previous state not found. Initializing LSTM-model structure. Stand by ...
+2017-09-11 13:56:39,932 :: INFO :: Model::LSTM-model successfully initialized.
+2017-09-11 13:56:39,976 :: INFO :: Train::Commencing model fitting. Stand by ...
+2017-09-13 11:06:34,734 :: INFO :: Train::LSTM-model successfully fitted.
+2017-09-13 11:06:34,753 :: INFO :: Train::LSTM-model dumped at 'model'.
+2017-09-16 06:19:20,027 :: INFO :: GetData::'content' variable successfully built.
+2017-09-16 06:19:20,608 :: INFO :: GetData::'content' variable successfully built.
+2017-09-16 06:19:21,118 :: INFO :: GetData::'content' variable successfully built.
+2017-09-16 06:19:45,791 :: INFO :: Model::LSTM-model found.
+2017-09-16 06:20:18,501 :: INFO :: Test::LSTM-model successfully loaded.
+2017-09-16 06:20:18,501 :: INFO :: Test::LSTM-model successfully loaded.
+2017-09-16 07:55:58,323 :: INFO :: GetData::'content' variable successfully built.
+2017-09-16 07:55:58,856 :: INFO :: GetData::'content' variable successfully built.
+2017-09-16 07:55:59,368 :: INFO :: GetData::'content' variable successfully built.
+2017-09-16 07:56:23,460 :: INFO :: Model::LSTM-model found.
+2017-09-16 07:56:56,009 :: INFO :: Test::LSTM-model successfully loaded.
+2017-09-16 07:56:56,009 :: INFO :: Test::LSTM-model successfully loaded.
