@@ -25,7 +25,7 @@ It consists of the following scripts:
  
  ____
 
-## Running-yourself procedure:
+## Run-yourself procedure:
 
 - If you are willing to test it out yourself, then first of all you should run `getdata.py` by adding the following code in the end of the script:
  
